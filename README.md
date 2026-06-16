@@ -1,6 +1,6 @@
 # DevelopersHub Internship - Data Analytics/Data Science Projects
 
-This repository contains all projects completed during my Data Analytics internship at DevelopersHub Corporation.
+This repository contains all projects completed during my Data Analytics/Data Science internship at DevelopersHub Corporation.
 
 ## Projects
 
