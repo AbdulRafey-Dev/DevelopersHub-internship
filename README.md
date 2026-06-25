@@ -26,6 +26,13 @@ This repository contains all projects completed during my Data Analytics/Data Sc
 * Evaluated using MAE and RMSE
 * Tools: Python, Pandas, Scikit-learn, Matplotlib
 
+### Task 5 — Personal Loan Acceptance Prediction
+* Predicted which customers are likely to accept a personal loan offer
+* Logistic Regression & Decision Tree classifier trained on Bank Marketing Dataset
+* Analyzed customer groups by age, job, education, and balance
+* Key Insight: Students, Retired persons, and Tertiary educated customers accept loans most
+* Tools: Python, Pandas, Scikit-learn, Matplotlib, Seaborn
+
 ## Tools & Technologies
 * Python | Pandas | Matplotlib | Seaborn
 * Scikit-learn | Machine Learning
